@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (5.12.0)
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - tamara_flutter_sdk (1.0.0):
+    - Flutter
+    - Moya
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - tamara_flutter_sdk (from `.symlinks/plugins/tamara_flutter_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  tamara_flutter_sdk:
+    :path: ".symlinks/plugins/tamara_flutter_sdk/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: ddb8d5201667b256dbc225f3fc6e835a0753186f
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  fluttertoast: 2c67e14dce98bbdb200df9e1acf610d7a6264ea1
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  tamara_flutter_sdk: 81aa62af59597a796a251401625457006f6d01f8
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
